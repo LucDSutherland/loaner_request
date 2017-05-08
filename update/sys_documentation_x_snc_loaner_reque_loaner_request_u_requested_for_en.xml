@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="" label="Loaner Request" language="en" table="x_snc_loaner_reque_loaner_request">
+    <sys_documentation element="u_requested_for" label="Requested for" language="en" table="x_snc_loaner_reque_loaner_request">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>u_requested_for</element>
             <help/>
             <hint/>
-            <label>Loaner Request</label>
+            <label>Requested for</label>
             <language>en</language>
             <name>x_snc_loaner_reque_loaner_request</name>
-            <plural>Loaner Requests</plural>
+            <plural>Requested for</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-07 17:23:59</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
-            <sys_id>d5344552fce232007f44d8142b22d68d</sys_id>
+            <sys_created_on>2017-05-07 19:10:43</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>ecac99d6fce232007f44d8142b22d609</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Loaner Request</sys_name>
+            <sys_name>Requested for</sys_name>
             <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">9f80c112fce232007f44d8142b22d647</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Loaner Request">9f80c112fce232007f44d8142b22d647</sys_scope>
-            <sys_update_name>sys_documentation_x_snc_loaner_reque_loaner_request__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_snc_loaner_reque_loaner_request_u_requested_for_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-07 17:23:59</sys_updated_on>
+            <sys_updated_on>2017-05-07 19:10:43</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
